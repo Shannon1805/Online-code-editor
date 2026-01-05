@@ -1,0 +1,17 @@
+body {
+  background: #0f0f1a;
+  color: white;
+  font-family: monospace;
+}
+
+textarea {
+  width: 100%;
+  background: #1e1e2e;
+  color: #fff;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
