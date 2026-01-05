@@ -96,7 +96,6 @@ export default function Editor() {
   return (
     <div style={{ padding: 20 }}>
       <div style={{ display: "flex", justifyContent: "space-between" }}>
-        <h2>⚡ Online Code Editor</h2>
         <button onClick={shareRoom}>🔗 Share</button>
       </div>
 
@@ -143,3 +142,4 @@ export default function Editor() {
     </div>
   );
 }
+
