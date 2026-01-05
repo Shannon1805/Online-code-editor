@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Frontend build
+dist/
+build/
+
+# Backend generated files
+output/
+out_*
+*.exe
+
+# Logs
+logs/
+*.log
+
+# Editor
+.vscode/
